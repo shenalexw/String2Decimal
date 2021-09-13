@@ -33,7 +33,7 @@ Write and test a MASM program to perform the following tasks (check the Requirem
 
 ### Installation
 
-Use Microsoft Visual Studio Enterprise to open without debbugging.
+Use Microsoft Visual Studio Enterprise to open and run without debbugging.
 
 ## References
 
